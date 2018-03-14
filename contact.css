@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Arual';
+    font-style: normal;
+    font-weight: 300;
+    src: url(fonts/Arual.ttf);
+}
+
+@font-face {
+    font-family: 'Generica';
+    font-style: normal;
+    font-weight: 400;
+    src: url(fonts/Generica.otf);
+}
+
+#title {
+    font-family: 'Arual', Helvetica, Ariel, Georgia, serif;
+}
