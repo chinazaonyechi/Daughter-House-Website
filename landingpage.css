@@ -1,0 +1,73 @@
+h1 {
+  font-family: 'Arual';
+  src:url(fonts/Arual.ttf);
+  font-size: 28px;
+  text-align: center;
+  color: black;
+}
+
+p {
+  font-size: 14px;
+  font-family: 'Generica';
+  src:url(fonts/Generica.otf);
+  text-align: center;
+  color: black;
+  ""position: absolute;
+  bottom: 0;""
+}
+
+div{
+  background-size:cover
+}
+
+.space{
+  height:50px;
+}
+
+.photos{
+  height:600px;
+  width:400px;
+  background: url("file:///C:/Users/Simren/Desktop/Uni/Year 3/Daughterhouse project/useimage.jpg");
+  margin: auto;
+}
+
+.writing{
+  padding: 20px;
+}
+
+.icons {
+    padding: 20px;
+    font-size: 30px;
+    height: 50px;
+    width: 300px;
+    margin:auto;
+    text-align: center;
+    text-decoration: none;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+    background: #3B5998;
+    padding: 10px 15px;
+    color: white;
+}
+
+.fa-twitter {
+    background: #55ACEE;
+    padding: 10px 10px;
+    color: white;
+}
+.fa-youtube {
+  background: #bb0000;
+  padding: 10px 11px;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  padding: 10px 11px;
+  color: white;
+}
